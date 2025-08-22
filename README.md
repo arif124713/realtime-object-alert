@@ -1,7 +1,7 @@
 
 # Real-Time Object Alert 🚨
 
-This project uses **YOLOv8** for real-time object detection and sends an **instant WhatsApp alert** when a specific object (like a mobile phone, person, etc.) is detected in the video stream.
+This project uses **YOLOv11n** for real-time object detection and sends an **instant WhatsApp alert** when a specific object (like a mobile phone, person, etc.) is detected in the video stream.
 
 ## 🔧 Features
 
